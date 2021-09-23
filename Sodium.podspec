@@ -12,8 +12,8 @@ Pod::Spec.new do |s|
   s.homepage = "https://github.com/jedisct1/swift-sodium"
   s.social_media_url = "https://twitter.com/jedisct1"
   s.authors = { "Frank Denis" => "" }
-  s.source = { git: "https://github.com/jedisct1/swift-sodium.git",
-               tag: "0.9.1" }
+  s.source = { git: "https://github.com/kinecosystem/swift-sodium.git",
+               tag: "0.9.2" }
 
   s.ios.deployment_target = "9.0"
   s.osx.deployment_target = "10.11"
